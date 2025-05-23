@@ -3,7 +3,7 @@
 ## Career Development
 
 ### Evidence
-![Career Development Session](path/to/screenshot.png)  
+![Career Development Session](artefacts/Career Counselling.png)  
 
 ### Reflection (STAR)
 **Situation**:  
