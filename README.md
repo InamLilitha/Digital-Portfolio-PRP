@@ -3,11 +3,11 @@
 ## Career Development
 
 ### Evidence
-![Career Development Session]path/to/(artefacts/Career Counselling.png)  
+![Career Development Session](path/to/artefacts/Career_Counselling.png)  
 
 ### Reflection (STAR)
 **Situation**:  
-The Session happened in early February.
+The session happened in early February.
 
 **Task**:  
 I needed guidance on creating a career development plan.
@@ -23,13 +23,13 @@ I learned how to outline actionable steps toward my career aspirations, signific
 ## Skills and Interests
 
 ### Evidence
-![Skills and Interests]path/to/(artefacts/Skills and Interests.png)
+![Skills and Interests](path/to/artefacts/Skills_and_Interests.png)
 
 ### Reflection (STAR)
 Reflecting on a recent group project, I utilized my communication skills effectively.
 
 **Situation**:  
-In a team project for my project class, we developed a web-app.
+In a team project for my project class, we developed a web app.
 
 **Task**:  
 I was responsible for facilitating team discussions.
@@ -38,19 +38,24 @@ I was responsible for facilitating team discussions.
 I organized meetings and encouraged all members to share their ideas.
 
 **Result**:  
-This approach led to a well-crafted web-app that received high praise from our professor.
+This approach led to a well-crafted web app that received high praise from our professor.
 
 ---
 
 ## Personality Assessment
 
 ### Evidence
-![Personality Assessment]path/to/(artefacts/Career Counselling.png)
+![Personality Assessment](path/to/artefacts/Personality_Assessment.png)
+
+### Reflection (STAR)
+*Add your reflection here.*
+
+---
 
 ## Create a CV
 
 ### Evidence
-![My CV]artefacts/CV Submission.png
+![My CV](path/to/artefacts/CV_Submission.png)
 
 ### Reflection (STAR)
 **Situation**:  
@@ -63,5 +68,4 @@ I aimed to effectively showcase my experiences and skills.
 I researched CV formats and incorporated feedback from peers and mentors.
 
 **Result**:  
-I have not received any interview invitations but I have beeen submitting my cv for potential internships.
-
+I have not received any interview invitations, but I have been submitting my CV for potential internships.
