@@ -50,7 +50,7 @@ This approach led to a well-crafted web-app that received high praise from our p
 ## Create a CV
 
 ### Evidence
-![My CV](path/to/artefacts/CV Submission.png)
+![My CV]artefacts/CV Submission.png
 
 ### Reflection (STAR)
 **Situation**:  
