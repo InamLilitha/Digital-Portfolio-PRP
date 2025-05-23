@@ -55,7 +55,7 @@ This approach led to a well-crafted web app that received high praise from our p
 ## Create a CV
 
 ### Evidence
-![My CV](path/to/artefacts/CV_Submission.png)
+![My CV](https://github.com/InamLilitha/Digital-Portfolio-PRP/blob/402021ef4d17c0e9e0458e3c776d88f7fb678ad1/artefacts/CV%20Submission.png)
 
 ### Reflection (STAR)
 **Situation**:  
