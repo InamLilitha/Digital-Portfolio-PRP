@@ -23,7 +23,7 @@ I learned how to outline actionable steps toward my career aspirations, signific
 ## Skills and Interests
 
 ### Evidence
-![Skills and Interests]path/to/(artefacts/Career Counselling.png)
+![Skills and Interests]path/to/(artefacts/Skills and Interests.png)
 
 ### Reflection (STAR)
 Reflecting on a recent group project, I utilized my communication skills effectively.
