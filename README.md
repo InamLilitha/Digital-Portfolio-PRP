@@ -23,7 +23,7 @@ I learned how to outline actionable steps toward my career aspirations, signific
 ## Skills and Interests
 
 ### Evidence
-
+![Skills and Interests]path/to/(artefacts/Career Counselling.png)
 
 ### Reflection (STAR)
 Reflecting on a recent group project, I utilized my communication skills effectively.
@@ -45,7 +45,7 @@ This approach led to a well-crafted web-app that received high praise from our p
 ## Personality Assessment
 
 ### Evidence
-*Assessment Result: MBTI Type: ENFJ*
+![Personality Assessment]path/to/(artefacts/Career Counselling.png)
 
 ## Create a CV
 
