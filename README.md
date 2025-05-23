@@ -45,7 +45,7 @@ This approach led to a well-crafted web app that received high praise from our p
 ## Personality Assessment
 
 ### Evidence
-![Personality Assessment]([path/to/artefacts/Personality_Assessment.png](https://github.com/InamLilitha/Digital-Portfolio-PRP/blob/60991e5fc7aac35b0bdb3e02e8c841a7518e6c55/artefacts/Personality%20Assessment.png))
+![Personality Assessment](https://github.com/InamLilitha/Digital-Portfolio-PRP/blob/60991e5fc7aac35b0bdb3e02e8c841a7518e6c55/artefacts/Personality%20Assessment.png)
 
 ### Reflection (STAR)
 *Add your reflection here.*
