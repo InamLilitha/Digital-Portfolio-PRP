@@ -3,7 +3,7 @@
 ## Career Development
 
 ### Evidence
-![Career Development Session](artefacts/Career Counselling.png)  
+![Career Development Session]path/to/(artefacts/Career Counselling.png)  
 
 ### Reflection (STAR)
 **Situation**:  
@@ -50,7 +50,7 @@ This approach led to a well-crafted web-app that received high praise from our p
 ## Create a CV
 
 ### Evidence
-![My CV](artefacts/CV Submission.png)
+![My CV](path/to/artefacts/CV Submission.png)
 
 ### Reflection (STAR)
 **Situation**:  
