@@ -3,7 +3,7 @@
 ## Career Development
 
 ### Evidence
-![Career Development](artefacts/Career_Counselling.png)  
+![Career Development](https://github.com/InamLilitha/Digital-Portfolio-PRP/blob/6a0feb624fa8812412ba4d612655253440d54f5c/artefacts/Career%20Counselling.png) 
 
 ### Reflection (STAR)
 **Situation**:  
