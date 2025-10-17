@@ -90,7 +90,7 @@ I needed to communicate technical details clearly so my team lead could track pr
 I prepared short updates before meetings, explained issues using simple language, and made sure to listen carefully to feedback.  
 
 **Result:**  
-My updates became clearer and more structured over time. I learned that professional communication is about being precise, respectful, and easy to understand — especially in a technical team.
+My updates became clearer and more structured over time. I learned that professional communication is about being precise, respectful, and easy to understand, especially in a technical team.
 
 ---
 
