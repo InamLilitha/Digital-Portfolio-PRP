@@ -132,7 +132,7 @@ During my internship, my supervisor encouraged the team to maintain professional
 I wanted to represent my current internship experience accurately and start growing my connections.  
 
 **Action:**  
-I updated my profile with my SETA internship details, added my web app development skills, and connected with other developers.  
+I updated my profile with my internship details, added my web app development skills, and connected with other developers.  
 
 **Result:**  
 My profile now looks professional and active. I learned that networking is about staying engaged, learning from others, and showing your progress over time.
@@ -158,6 +158,6 @@ I needed to maintain professionalism, respect other team members’ work, and co
 I managed my tasks responsibly, stayed polite and focused in discussions, and supported teammates during testing or debugging sessions.  
 
 **Result:**  
-I earned trust from my team lead and learned that etiquette isn’t just about manners — it’s about dependability, teamwork, and accountability.
+I earned trust from my team lead and learned that etiquette isn’t just about manners, it’s about dependability, teamwork, and accountability.
 
 ---
