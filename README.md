@@ -123,8 +123,6 @@ I became more confident in structuring my answers using the STAR method and lear
 ### Evidence  
 ![Professional Networking Evidence](https://github.com/InamLilitha/Digital-Portfolio-PRP/blob/main/artefacts/Professional%20Networking.png)  
 
-I created a LinkedIn profile and connected with my internship teammates, mentors, and classmates to start building my professional network in the tech field.
-
 ### Reflection (STAR)
 
 **Situation:**  
