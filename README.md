@@ -74,7 +74,7 @@ I have not received any interview invitations, but I have been submitting my CV 
 ## Business Communication 
 
 ### Evidence 
-![Business Communication](https://github.com/InamLilitha/Digital-Portfolio-PRP/blob/main/artefacts/Business%20Communication.png).
+![Business Communication](https://github.com/InamLilitha/Digital-Portfolio-PRP/blob/main/artefacts/Business%20Communication.png)
 
 During my internship, I communicated regularly with my team lead and fellow developers through project updates, daily stand-up meetings, and task reports.
 
